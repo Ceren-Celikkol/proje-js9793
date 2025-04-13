@@ -4,6 +4,6 @@ function sayiArttir() {
    let sayiDonustur = Number(sayi.innerHTML);
 
    sayiDonustur ++;
-   sayi.innerHTML = sayiDonustur ++;
+   sayi.innerHTML = sayiDonustur;
 
 }
